@@ -87,6 +87,10 @@ html{
 
 #s-about{
     padding:72px 0px;
+    background-image: url('../image/fundo.gif'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-color:#111
 }
 @media screen and (max-width: 1200px){
