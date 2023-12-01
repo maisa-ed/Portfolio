@@ -99,7 +99,7 @@ html{
     }
 }
 #s-about .grid-layout>div{
-    background-color:#151515;
+    background-color:rgba(21, 21, 21, 0.9);
     border:2px solid #1f1f1f;
     padding:24px;
     border-radius:4px;
